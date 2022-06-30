@@ -1,0 +1,4 @@
+set classpath=%classpath%;C:\Users\Hunny Arora\Downloads\mysql-connector-java-8.0.29.jar;
+
+
+set classpath=%classpath%;<path of jar file>;
